@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Kotlin & JetPack Compose**
 
-- 💬 Ask me about **JS, Kotlin and Web Development**
+- 💬 Ask me about **JS, Kotlin, Web Development and FireBase Integration**
 
 - 📫 How to reach me **arjunmehandrakar06@gmail.com**
 
