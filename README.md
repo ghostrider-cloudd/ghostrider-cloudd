@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **JS, Kotlin, Web Development and FireBase Integration**
 
-- 📫 How to reach me **arjunmehandrakar06@gmail.com**
+- 📫 How to reach me **rjun.tech@gmail.com**
 
 - ⚡ Fun fact **I can Learn anything within a small span of time**
 
